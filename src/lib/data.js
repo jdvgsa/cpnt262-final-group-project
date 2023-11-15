@@ -16,4 +16,4 @@ export let galleryData = [
   {src: "/images/senators.svg", heading: "Ottawa Senators", description: "The Ottawa Senators, founded in 1992, represent Canada's capital in the NHL. Their distinctive red, black, and white colors adorn the Canadian Tire Centre.", alt: "nhl team logo image"},
 
   {src: "/images/wings.svg", heading: "Detroit Redwings", description: "The Detroit Red Wings, founded in 1926, are an NHL powerhouse with 11 Stanley Cup victories.", alt: "nhl team logo image"}
-]
+];
