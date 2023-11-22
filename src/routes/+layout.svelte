@@ -9,6 +9,6 @@
 
 <Home />
 
-<Footer />
 
 <slot />
+<Footer />
