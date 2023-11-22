@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* sticky footer code */
+html {
+  height: 100%;
+}
+/* sticky footer code */
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+/* sticky footer code */
+main {
+  flex: 1 0 auto;
+}
+/* sticky footer code */
+footer {
+  flex-shrink: 0;
+}
