@@ -30,5 +30,5 @@ I have never used dayJS before so I needed to do research how to use it for our 
 - [Canadiens logo](https://commons.wikimedia.org/w/index.php?curid=43224014)
 - [Redwings logo](https://en.wikipedia.org/w/index.php?curid=17648394)
 - [Sabres logo](https://en.wikipedia.org/w/index.php?curid=29601775)
-- Home Background Image (https://en.wikipedia.org/wiki/Hockey#/media/File:Pittsburgh_Penguins,_Washington_Capitals,_Bryan_Rust_(33744033514).jpg)
-- NHL Site Logo (https://en.wikipedia.org/wiki/National_Hockey_League#/media/File:05_NHL_Shield.svg)
+- [HomeImage] (https://en.wikipedia.org/wiki/Hockey#/media/File:Pittsburgh_Penguins,_Washington_Capitals,_Bryan_Rust_(33744033514).jpg)
+- [SiteLogo] (https://en.wikipedia.org/wiki/National_Hockey_League#/media/File:05_NHL_Shield.svg)
