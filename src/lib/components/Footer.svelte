@@ -1,4 +1,4 @@
-<footer class="bg-slate-800 text-center py-2 text-white font-bold  bottom-0 w-full pt-4 pb-5">
+<footer class="bg-slate-800 text-center py-2 text-white font-bold bottom-0 w-full pt-4 pb-2">
 
   <p class="pb-2">&copy; 2023 Final Project - Multi-page Website with Gallery Svelte Assignment</p>
  
