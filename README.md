@@ -3,8 +3,8 @@
 - CPNT262 Web Client and Server Programming
 - Final Project - Multi-page Website with Gallery (Paired Project)
 - Code by: John Dagsa & Brendan Malycky
-- Netlify Site Link - [https://elegant-snickerdoodle-20c4ac.netlify.app/]
-- GH Repo Links - [Main Repo](https://github.com/jdvgsa/cpnt262-final-group-project)
+- [Netlify Site Link](https://elegant-snickerdoodle-20c4ac.netlify.app/)
+- [Main Repo](https://github.com/jdvgsa/cpnt262-final-group-project)
 
 ## Search Notes
 
