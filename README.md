@@ -21,14 +21,14 @@ I have never used dayJS before so I needed to do research how to use it for our 
 
 
 ## Attributions
-- [Flames logo](https://en.wikipedia.org/w/index.php?curid=65541834)
-- [Oilers logo](https://en.wikipedia.org/w/index.php?curid=20956425)
-- [Canucks logo](https://en.wikipedia.org/w/index.php?curid=61964669)
-- [Leafs logo](https://en.wikipedia.org/w/index.php?curid=52054942)
-- [Ottawa logo](https://en.wikipedia.org/w/index.php?curid=65364416)
-- [Jets logo](https://en.wikipedia.org/w/index.php?curid=33043294)
-- [Canadiens logo](https://commons.wikimedia.org/w/index.php?curid=43224014)
-- [Redwings logo](https://en.wikipedia.org/w/index.php?curid=17648394)
-- [Sabres logo](https://en.wikipedia.org/w/index.php?curid=29601775)
+- [Flames Logo](https://en.wikipedia.org/w/index.php?curid=65541834)
+- [Oilers Logo](https://en.wikipedia.org/w/index.php?curid=20956425)
+- [Canucks Logo](https://en.wikipedia.org/w/index.php?curid=61964669)
+- [Leafs Logo](https://en.wikipedia.org/w/index.php?curid=52054942)
+- [Ottawa Logo](https://en.wikipedia.org/w/index.php?curid=65364416)
+- [Jets Logo](https://en.wikipedia.org/w/index.php?curid=33043294)
+- [Canadiens Logo](https://commons.wikimedia.org/w/index.php?curid=43224014)
+- [Redwings Logo](https://en.wikipedia.org/w/index.php?curid=17648394)
+- [Sabres Logo](https://en.wikipedia.org/w/index.php?curid=29601775)
 - [Home Image](https://en.wikipedia.org/wiki/Hockey#/media/File:Pittsburgh_Penguins,_Washington_Capitals,_Bryan_Rust_(33744033514).jpg)
 - [Site Logo](https://en.wikipedia.org/wiki/National_Hockey_League#/media/File:05_NHL_Shield.svg)
