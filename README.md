@@ -14,9 +14,9 @@ Initial Search Term Used was "How to use dayJS with svelte".
 
 Optimized Search term used "how to display date and time dayjs".
 
-- This search term brought me to this link [https://www.freecodecamp.org/news/javascript-date-time-dayjs/#:~:text=format('YYYY-MM-,and%20logged%20out%20the%20ouput]
+- This search term brought me to this link: [https://www.freecodecamp.org/news/javascript-date-time-dayjs/#:~:text=format('YYYY-MM-,and%20logged%20out%20the%20ouput]
 
-I have never used dayJS before so I needed to do research how to use it for our project. The link has an in-depth guide on how to use dayJS such as modifying different times and dates in order to display whichever you might need.
+I have never used dayJS before so I needed to do research on how to use it for our project. The link has an in-depth guide on how to use dayJS such as modifying different times and dates in order to display whichever you might need.
 
 
 
